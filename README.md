@@ -8,7 +8,6 @@ A simple, gamified desktop application for photographers and enthusiasts to cull
 - **Automatic Sorting**: Losers are automatically renamed with prefixes (`zz_`, `1_`, `2_`, etc.), and the winner gets `WIN_`.
 - **Dark & Light Themes**: Easy on the eyes for long culling sessions.
 - **Bilingual**: Switch between English and Russian on the fly.
-- **Performance**: Optimized to handle high-resolution images without freezing.
 - **Progress Tracking**: Clear progress bar and remaining photo counter.
 
 ## 🚀 How to Use
