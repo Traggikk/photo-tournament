@@ -1,7 +1,8 @@
+<img width="640" height="480" alt="изображение" src="https://github.com/user-attachments/assets/6568d4cd-813e-4bb8-83a2-0178de0e8233" />
+<img width="640" height="480" alt="изображение" src="https://github.com/user-attachments/assets/5af12660-ddb1-4bd5-b0b1-e96e4c433796" />
+<img width="640" height="480" alt="изображение" src="https://github.com/user-attachments/assets/a4c82901-e7cd-4616-98bf-a251cb7a1af6" />
 
-<img width="891" height="702" alt="изображение" src="https://github.com/user-attachments/assets/90a7dc54-46aa-4f9b-8fb5-77bb4ef39f1e" />
-<img width="894" height="691" alt="изображение" src="https://github.com/user-attachments/assets/6b104571-9d01-477e-81d1-3f3a0e27b6ef" />
-<img width="887" height="690" alt="изображение" src="https://github.com/user-attachments/assets/8eca7090-8317-4299-9b82-45ad1e3e9d9b" />
+
 
 ___
 # 🏆 Фототурнир
