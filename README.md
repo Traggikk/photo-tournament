@@ -1,4 +1,9 @@
 
+<img width="891" height="702" alt="изображение" src="https://github.com/user-attachments/assets/90a7dc54-46aa-4f9b-8fb5-77bb4ef39f1e" />
+<img width="894" height="691" alt="изображение" src="https://github.com/user-attachments/assets/6b104571-9d01-477e-81d1-3f3a0e27b6ef" />
+<img width="887" height="690" alt="изображение" src="https://github.com/user-attachments/assets/8eca7090-8317-4299-9b82-45ad1e3e9d9b" />
+
+___
 # 🏆 Фототурнир
 
 Простое, игровое приложение для настольных компьютеров, предназначенное для фотографов и любителей, позволяющее отбирать лучшие фотографии. Вместо того чтобы просматривать сотни изображений, пусть они сразятся в турнирной сетке, пока не останутся только самые лучшие.
