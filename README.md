@@ -9,21 +9,23 @@ ___
 
 Простое, игровое приложение для настольных компьютеров, предназначенное для фотографов и любителей, позволяющее отбирать лучшие фотографии. Вместо того чтобы просматривать сотни изображений, пусть они сразятся в турнирной сетке, пока не останутся только самые лучшие.
 
-# ✨ Особенности
+## ✨ Возможности
 
-- **Игровой отбор**: Фотографии соревнуются в поединках 1 на 1.
-- **Автоматическая сортировка**: проигравшие автоматически переименовываются с добавлением префиксов (`zz_`, `1_`, `2_` и т. д.), а победитель получает `WIN_`.
-- **Темная и светлая темы**: Комфортная для глаз, подходит для длительных сеансов отбора.
-- **Двуязычный**: Переключайтесь между английским и русским языками на ходу.
-- **Отслеживание прогресса**: Очистить индикатор выполнения и счетчик оставшихся фотографий.
+- **Геймифицированный отбор**: Фотографии соревнуются в динамичных дуэлях 1 на 1 или тройных сравнениях.
+- **Рейтинг по очкам**: Победители накапливают баллы. В конце файлы сортируются с помощью префикса `score_XX_` в зависимости от количества побед.
+- **Управление раундами**: После каждого раунда можно выбрать «Продолжить турнир» или «Закончить досрочно».
+- **Поддержка RAW**: Нативная обработка форматов камер (CR2, NEF, ARW, DNG и др.) без предварительной конвертации.
+- **Тёмная и светлая темы**: Комфорт для глаз при длительной работе.
+- **Двуязычный интерфейс**: Мгновенное переключение между русским и английским языками.
+- **Умный прогресс-бар**: Отслеживание статуса турнира и количества отсеянных фото в реальном времени.
 
-# 🚀 Как использовать
+## 🚀 Как пользоваться
 
-1. **Скачать**: Загрузите файл `tournament.exe` из этого репозитория.
-2. **Запуск**: Дважды щелкните файл `tournament.exe`. *(Если Windows SmartScreen выдаст предупреждение, нажмите «Подробнее» -> «Запустить в любом случае»).*
-3. **Выберите папку**: Выберите папку, содержащую ваши фотографии.
-4. **Битва**: Выберите свою любимую фотографию из каждой пары.
-5. **Результат**: В конце отображается абсолютный победитель, а все файлы в папке сортируются по их месту в турнирной таблице.
+1. **Скачать**: Загрузите актуальную версию `tournament.exe` из раздела [Releases](../../releases).
+2. **Запуск**: Дважды кликните по `tournament.exe`. *(Если Защитник Windows предупредит об издателе, нажмите «Подробнее» → «Выполнить в любом случае»)*.
+3. **Выбор папки**: Укажите директорию с вашими фотографиями (JPG, PNG, RAW и т.д.).
+4. **Битва и выбор**: Выбирайте понравившиеся фото в каждом сравнении. После завершения раунда появится выбор: **Продолжить турнир** или **Завершить досрочно**.
+5. **Результат**: Все файлы автоматически переименуются с префиксом `score_XX_` согласно набранным очкам, что позволяет мгновенно отсортировать их по качеству в проводнике.
 
 # 🛠️ Для разработчиков
 
@@ -54,19 +56,21 @@ A simple, gamified desktop application for photographers and enthusiasts to cull
 
 ## ✨ Features
 
-- **Gamified Culling**: Photos compete in 1v1 battles.
-- **Automatic Sorting**: Losers are automatically renamed with prefixes (`zz_`, `1_`, `2_`, etc.), and the winner gets `WIN_`.
+- **Gamified Culling**: Photos compete in dynamic 1v1 or 3-way battles.
+- **Points-Based Ranking**: Winners accumulate points. Files are sorted at the end using `score_XX_` prefixes based on their total wins.
+- **Round Control**: Choose to continue to the next round or end the tournament early at any checkpoint.
+- **RAW Support**: Native processing for camera RAW formats (CR2, NEF, ARW, DNG, etc.) without prior conversion.
 - **Dark & Light Themes**: Easy on the eyes for long culling sessions.
-- **Bilingual**: Switch between English and Russian on the fly.
-- **Progress Tracking**: Clear progress bar and remaining photo counter.
+- **Bilingual UI**: Switch between English and Russian on the fly.
+- **Smart Progress Tracking**: Real-time progress bar and accurate elimination counter.
 
 ## 🚀 How to Use
 
-1. **Download**: Download `tournament.exe` from this repository.
-2. **Run**: Double-click `tournament.exe`. *(If Windows SmartScreen warns you, click "More info" -> "Run anyway").*
-3. **Select Folder**: Choose a folder containing your photos.
-4. **Battle**: Choose your favorite photo from each pair.
-5. **Result**: At the end, the absolute winner is displayed, and all files in the folder are sorted by their tournament rank.
+1. **Download**: Get the latest `tournament.exe` from the [Releases](../../releases) section.
+2. **Run**: Double-click `tournament.exe`. *(If Windows SmartScreen warns you, click "More info" → "Run anyway")*.
+3. **Select Folder**: Choose a directory containing your photos (JPG, PNG, RAW, etc.).
+4. **Battle & Choose**: Pick your favorite photo(s) from each comparison. After each round, a prompt will appear allowing you to **Continue** or **End Tournament**.
+5. **Result**: Files are automatically renamed with `score_XX_` prefixes based on points earned, allowing instant sorting by performance in your file explorer.
 
 ## 🛠️ For Developers
 
